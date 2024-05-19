@@ -1,0 +1,15 @@
+.btnclick{
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.btnoclick{
+    background-color: hsl(60, 100%, 50%);
+}
+
+.btnclick,.btnoclick{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
